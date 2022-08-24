@@ -1,0 +1,17 @@
+.gatsby-code-button-container {
+  touch-action: none;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 36px;
+  right: 3px;
+  z-index: 100;
+  pointer-events: none;
+}
+
+.gatsby-code-button-icon {
+  display: block;
+  width: 22px;
+  height: 22px;
+  fill: gray;
+}

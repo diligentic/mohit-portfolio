@@ -1,0 +1,608 @@
+{
+  "name": "Mohit Kumar",
+  "description": "Code Lover",
+  "roles": [
+    "Software Engineer",
+    "Open Source Contributer",
+    "Learner"
+  ],
+  "socialLinks": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "g8ged6ib35o2"
+          }
+        },
+        "id": "78rHbFS5g14nHdKRFQgtUJ",
+        "type": "Entry",
+        "createdAt": "2022-08-24T09:33:41.350Z",
+        "updatedAt": "2022-08-24T09:33:41.350Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Github",
+        "url": "https://github.com/twointo2",
+        "fontAwesomeIcon": "github"
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "g8ged6ib35o2"
+          }
+        },
+        "id": "4NgfIdnN4SzKNMXb9h1F8P",
+        "type": "Entry",
+        "createdAt": "2022-08-24T09:34:13.517Z",
+        "updatedAt": "2022-08-24T09:34:13.517Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "socialLink"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Contact me",
+        "url": "mailto:twointo2@gmail.com",
+        "fontAwesomeIcon": "envelope"
+      }
+    }
+  ],
+  "profile": {
+    "metadata": {
+      "tags": []
+    },
+    "sys": {
+      "space": {
+        "sys": {
+          "type": "Link",
+          "linkType": "Space",
+          "id": "g8ged6ib35o2"
+        }
+      },
+      "id": "3F3JoNGzU8YlcZDOJQlnQC",
+      "type": "Asset",
+      "createdAt": "2022-08-24T08:28:10.655Z",
+      "updatedAt": "2022-08-24T08:28:10.655Z",
+      "environment": {
+        "sys": {
+          "id": "master",
+          "type": "Link",
+          "linkType": "Environment"
+        }
+      },
+      "revision": 1,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "pic",
+      "description": "",
+      "file": {
+        "url": "//images.ctfassets.net/g8ged6ib35o2/3F3JoNGzU8YlcZDOJQlnQC/c3f92ccc5c64ffae970ccf759f31398c/DSC_0162.jpg",
+        "details": {
+          "size": 321912,
+          "image": {
+            "width": 1178,
+            "height": 1350
+          }
+        },
+        "fileName": "DSC_0162.jpg",
+        "contentType": "image/jpeg"
+      }
+    }
+  },
+  "aboutMe": "Hello there <img src=\"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif\" width=\"25px\">\n\nI'm Mohit, a Software Engineer who helps the people and the organisations to ship their business ideas into the App Store, Play Store, and Web.\n\nI have developed several Mobile and Web Applications which are impacting the world and some are in-progress.\n\nI am skilled in the React-Native, ReactJs, and NodeJs frameworks.\n\nIn my free time, I love to\n* explore different tools & technologies\n* write and share the solutions I have created or found for the problem I encounter in my day to day life\n* listen to music\n* invest in improving my skills.\n\nI am currently building a hobby to read books.\n\nAnd, I am always willing to learn more.",
+  "projects": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "g8ged6ib35o2"
+          }
+        },
+        "id": "5CUT3KewIpcgq5sNUtfus1",
+        "type": "Entry",
+        "createdAt": "2022-08-24T09:37:58.719Z",
+        "updatedAt": "2022-08-24T09:37:58.719Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "GMS",
+        "publishedDate": "2021-03-20T00:00+05:30",
+        "logo": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "g8ged6ib35o2"
+              }
+            },
+            "id": "2IL7329g9SXbmqVLhdEUGj",
+            "type": "Asset",
+            "createdAt": "2021-03-20T16:51:14.523Z",
+            "updatedAt": "2021-03-20T16:51:14.523Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "GMS Logo",
+            "description": "GMS - Gym Management System",
+            "file": {
+              "url": "//images.ctfassets.net/g8ged6ib35o2/2IL7329g9SXbmqVLhdEUGj/0fbcca69646d2fe09c09c7243c93757c/iTunesArtwork_3x.png",
+              "details": {
+                "size": 125924,
+                "image": {
+                  "width": 1536,
+                  "height": 1536
+                }
+              },
+              "fileName": "iTunesArtwork@3x.png",
+              "contentType": "image/png"
+            }
+          }
+        },
+        "shortDescription": "Gym management at your finger tips.",
+        "type": "Mobile App",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.jb.gms.admin",
+        "projectImages": [
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "g8ged6ib35o2"
+                }
+              },
+              "id": "3wfrnAlO7gHKWE8mfCkLYQ",
+              "type": "Asset",
+              "createdAt": "2021-05-02T16:54:22.921Z",
+              "updatedAt": "2021-05-02T16:54:22.921Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "GMS Feature Graphic",
+              "file": {
+                "url": "//images.ctfassets.net/g8ged6ib35o2/3wfrnAlO7gHKWE8mfCkLYQ/b529e8b03f5d31c9a1c2c466996e04e8/GMS_Admin.png",
+                "details": {
+                  "size": 1101168,
+                  "image": {
+                    "width": 4138,
+                    "height": 2467
+                  }
+                },
+                "fileName": "GMS Admin.png",
+                "contentType": "image/png"
+              }
+            }
+          }
+        ],
+        "longDescription": "<p>Looking for a perfect app to manage your gym members? If yes, then this simple yet powerful app is for you. With this app, you can:</p>\n\n<p>- Manage your gym member's data like, joining date, payment and payment method, membership type, etc.</p>\n\n<p>- Message gym members for important updates</p>\n\n<p>- Manage new gym queries</p>\n\n<p>- Quickly convert a gym query into a membership with just a tap of a button</p>\n\n<p>- View overall report of the memberships</p>\n\n<p>- Filter member's data to view the desired record like queries, pending memberships, ending memberships, expired memberships, etc</p>",
+        "technologies": [
+          "React Native",
+          "NodeJS",
+          "JavaScript",
+          "MongoDB",
+          "ExpressJS",
+          "Figma"
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "g8ged6ib35o2"
+          }
+        },
+        "id": "4ahLDPdHLCXC9A8fE9P2Z9",
+        "type": "Entry",
+        "createdAt": "2022-08-24T09:40:11.238Z",
+        "updatedAt": "2022-08-24T09:40:11.238Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "sMart-The Shopping Mart",
+        "publishedDate": "2020-06-01T00:00+05:30",
+        "logo": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "g8ged6ib35o2"
+              }
+            },
+            "id": "3BgqlR4TM6htvVuBCyKfc0",
+            "type": "Asset",
+            "createdAt": "2021-03-01T15:12:18.638Z",
+            "updatedAt": "2021-03-01T15:12:18.638Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "sMart logo",
+            "description": "sMart logo",
+            "file": {
+              "url": "//images.ctfassets.net/g8ged6ib35o2/3BgqlR4TM6htvVuBCyKfc0/16b16510daa9478d94d514bd0be9898b/sMart.webp",
+              "details": {
+                "size": 18054,
+                "image": {
+                  "width": 360,
+                  "height": 360
+                }
+              },
+              "fileName": "sMart.webp",
+              "contentType": "image/webp"
+            }
+          }
+        },
+        "shortDescription": "Free mobile app for shopping grocery, fruits, vegetables & electronics.",
+        "type": "Mobile App",
+        "longDescription": "Free mobile app for shopping grocery, fruits, vegetables & electronics.",
+        "technologies": [
+          "React Native",
+          "NodeJS",
+          "JavaScript",
+          "MongoDB",
+          "ExpressJS",
+          "Figma",
+          "Swagger"
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "g8ged6ib35o2"
+          }
+        },
+        "id": "6ZHWrejrTIB86s6Z5FXl0u",
+        "type": "Entry",
+        "createdAt": "2022-08-24T09:42:19.240Z",
+        "updatedAt": "2022-08-24T09:42:19.240Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Hungerzone",
+        "publishedDate": "2020-03-12T00:00+05:30",
+        "logo": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "g8ged6ib35o2"
+              }
+            },
+            "id": "3thL7rFESg6m0gnJ2Nzzf0",
+            "type": "Asset",
+            "createdAt": "2021-03-01T15:18:18.067Z",
+            "updatedAt": "2021-03-01T15:18:18.067Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Hungerzone logo",
+            "description": "Hungerzone logo",
+            "file": {
+              "url": "//images.ctfassets.net/g8ged6ib35o2/3thL7rFESg6m0gnJ2Nzzf0/35da46d6a6347518ed22bcf57c62bb8e/Hungerzone.webp",
+              "details": {
+                "size": 25906,
+                "image": {
+                  "width": 360,
+                  "height": 360
+                }
+              },
+              "fileName": "Hungerzone.webp",
+              "contentType": "image/webp"
+            }
+          }
+        },
+        "shortDescription": "Shop online for grocery, beauty & wellness, personal care, household care, baby care, etc. and get them delivered to your doorstep at the lowest prices.",
+        "type": "Mobile App",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.stackgeeks.hungerzone",
+        "longDescription": "Shop online for grocery, beauty & wellness, personal care, household care, baby care, etc. and get them delivered to your doorstep at the lowest prices.",
+        "technologies": [
+          "React Native",
+          "MongoDB",
+          "NodeJS",
+          "ExpressJS",
+          "Figma",
+          "Swagger",
+          "JavaScrpt"
+        ]
+      }
+    },
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "g8ged6ib35o2"
+          }
+        },
+        "id": "56yX6YzcJ1YmDwlZaqEJTt",
+        "type": "Entry",
+        "createdAt": "2022-08-24T09:44:42.762Z",
+        "updatedAt": "2022-08-24T09:44:42.762Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "project"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "name": "Udress",
+        "publishedDate": "2019-06-12T00:00+05:30",
+        "logo": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "g8ged6ib35o2"
+              }
+            },
+            "id": "3AorRmtWOsGQ4o8gK0YWKG",
+            "type": "Asset",
+            "createdAt": "2021-02-18T19:03:13.329Z",
+            "updatedAt": "2021-02-20T13:50:49.680Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 6,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Google Logo",
+            "description": "Logo from Google",
+            "file": {
+              "url": "//images.ctfassets.net/g8ged6ib35o2/3AorRmtWOsGQ4o8gK0YWKG/f9dffa07f7daa099a686a4628ae10205/udress.webp",
+              "details": {
+                "size": 7828,
+                "image": {
+                  "width": 360,
+                  "height": 360
+                }
+              },
+              "fileName": "udress.webp",
+              "contentType": "image/webp"
+            }
+          }
+        },
+        "shortDescription": "uDress is a boutique at your fingertips that allows users to post and sell any type of dress.",
+        "type": "Mobile App",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.udress",
+        "appStoreUrl": "https://apps.apple.com/us/app/udress/id1485435709",
+        "projectImages": [
+          {
+            "metadata": {
+              "tags": []
+            },
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "g8ged6ib35o2"
+                }
+              },
+              "id": "5Phdjbund3DVEJ4pzbADKA",
+              "type": "Asset",
+              "createdAt": "2021-05-02T17:03:02.478Z",
+              "updatedAt": "2021-05-02T17:03:02.478Z",
+              "environment": {
+                "sys": {
+                  "id": "master",
+                  "type": "Link",
+                  "linkType": "Environment"
+                }
+              },
+              "revision": 1,
+              "locale": "en-US"
+            },
+            "fields": {
+              "title": "Udress Feature Graphic",
+              "file": {
+                "url": "//images.ctfassets.net/g8ged6ib35o2/5Phdjbund3DVEJ4pzbADKA/62034ea9f6cd40479e11ffd269c5d532/Udress.png",
+                "details": {
+                  "size": 3730538,
+                  "image": {
+                    "width": 2857,
+                    "height": 2312
+                  }
+                },
+                "fileName": "Udress.png",
+                "contentType": "image/png"
+              }
+            }
+          }
+        ],
+        "longDescription": "uDress is a boutique at your fingertips that allows users to post and sell any type of dress.",
+        "technologies": [
+          "React Native",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "JavaScript",
+          "Swagger",
+          "Sketch",
+          "InVision"
+        ]
+      }
+    }
+  ],
+  "colors": {
+    "background": "#FFFFFF",
+    "muted": "#f0e6f6",
+    "gray": "#ddd",
+    "text": "#333333",
+    "primary": "#09015f",
+    "secondary": "#fdb827",
+    "highlight": "#80ffdb"
+  }
+}
